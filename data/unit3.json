@@ -1,0 +1,1729 @@
+{
+  "unit": "3",
+  "title": "English Open World 1 – Unit 3 (Healthy living)",
+  "intro": "Alle Lerninhalte wurden aus deinen hochgeladenen Fotos übernommen (Vokabeln, Language Check, Imperatives, Study Skills, Portfolio).",
+  "topics": [
+    {
+      "id": "u3-vocabulary",
+      "title": "Vocabulary – Healthy living",
+      "tags": [
+        "vocabulary",
+        "words to learn"
+      ],
+      "intro": "Wortschatz aus den Vokabel-Seiten (LC_20–LC_23). Nutze Karten, Glossar und Matching.",
+      "image": "assets/LC_20_Vocy.jpeg",
+      "sections": [
+        {
+          "id": "vocy-20",
+          "title": "Words to learn (LC_20)",
+          "theory": [
+            {
+              "h": "Quelle",
+              "p": "Siehe Screenshot LC_20_Vocy.jpeg."
+            }
+          ],
+          "vocab": [
+            {
+              "term": "canteen",
+              "definition": "Kantine, Mensa",
+              "example": "Eating in the canteen is a good way to see friends at lunchtime.",
+              "category": "Healthy living"
+            },
+            {
+              "term": "health",
+              "definition": "Gesundheit ",
+              "example": "To live longer, you need to take care of your health.",
+              "category": "General"
+            },
+            {
+              "term": "junk food",
+              "definition": "ungesundes Essen ",
+              "example": "Don't eat so much junk food!",
+              "category": "General"
+            },
+            {
+              "term": "nutrition",
+              "definition": "Erahrung i",
+              "example": "Good nutrition is important if you want to stay healthy.",
+              "category": "General"
+            },
+            {
+              "term": "recipe",
+              "definition": "~ Rezept",
+              "example": "I have a good recipe for chocolate cake.",
+              "category": "Food & cooking"
+            },
+            {
+              "term": "vegetable",
+              "definition": "Gemiise j",
+              "example": "| like healthy food, for example fruit and vegetables.",
+              "category": "Food & cooking"
+            },
+            {
+              "term": "brain",
+              "definition": "Gehirn",
+              "example": "Eat more fruit, and your brain will work better!",
+              "category": "General"
+            },
+            {
+              "term": "chips",
+              "definition": "Pommes frites",
+              "example": "} In England, they eat a lot of fish and chips.",
+              "category": "General"
+            },
+            {
+              "term": "combine",
+              "definition": "verbinden",
+              "example": "Can you really combine these ingredients?",
+              "category": "General"
+            },
+            {
+              "term": "comfortable",
+              "definition": "komfortabel, bequem",
+              "example": "| love this sofa - it’s so comfortable!",
+              "category": "General"
+            },
+            {
+              "term": "cycle",
+              "definition": "velo fahren 1",
+              "example": "My brother cycles to work every day.",
+              "category": "General"
+            },
+            {
+              "term": "deal with",
+              "definition": "sich befassen mit ",
+              "example": "In my summer job | had to deal with some difficult customers.",
+              "category": "General"
+            },
+            {
+              "term": "disagree",
+              "definition": "a nicht einverstanden sein, ",
+              "example": "Teenagers often disagree with their parents.",
+              "category": "General"
+            },
+            {
+              "term": "fast food",
+              "definition": "Fastfood",
+              "example": "\\s pizza fast food, too?",
+              "category": "General"
+            },
+            {
+              "term": "football",
+              "definition": "Fussball -",
+              "example": "Let's go and play football!",
+              "category": "General"
+            }
+          ],
+          "tasks": [
+            {
+              "type": "match",
+              "pairs": [
+                [
+                  "canteen",
+                  "Kantine, Mensa"
+                ],
+                [
+                  "health",
+                  "Gesundheit "
+                ],
+                [
+                  "junk food",
+                  "ungesundes Essen "
+                ],
+                [
+                  "nutrition",
+                  "Erahrung i"
+                ],
+                [
+                  "recipe",
+                  "~ Rezept"
+                ],
+                [
+                  "vegetable",
+                  "Gemiise j"
+                ]
+              ]
+            },
+            {
+              "type": "fill",
+              "q": "Eating in the ____ is a good way to see friends at lunchtime.",
+              "answer": "canteen",
+              "hint": "word from LC_20"
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Fussball -",
+              "answer": "football",
+              "alt": [
+                "football"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Gehirn",
+              "answer": "brain",
+              "alt": [
+                "brain"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Pommes frites",
+              "answer": "chips",
+              "alt": [
+                "chips"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “football” mean?",
+              "choices": [
+                "Gehirn",
+                "Fastfood",
+                "Fussball -"
+              ],
+              "answer": 2,
+              "explain": "Let's go and play football!"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “canteen” mean?",
+              "choices": [
+                "Kantine, Mensa",
+                "~ Rezept",
+                "Pommes frites"
+              ],
+              "answer": 0,
+              "explain": "Eating in the canteen is a good way to see friends at lunchtime."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “nutrition” mean?",
+              "choices": [
+                "Gehirn",
+                "Erahrung i",
+                "Kantine, Mensa"
+              ],
+              "answer": 1,
+              "explain": "Good nutrition is important if you want to stay healthy."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “health” mean?",
+              "choices": [
+                "velo fahren 1",
+                "Fussball -",
+                "Gesundheit "
+              ],
+              "answer": 2,
+              "explain": "To live longer, you need to take care of your health."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “recipe” mean?",
+              "choices": [
+                "a nicht einverstanden sein, ",
+                "~ Rezept",
+                "Fussball -"
+              ],
+              "answer": 1,
+              "explain": "I have a good recipe for chocolate cake."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “vegetable” mean?",
+              "choices": [
+                "Pommes frites",
+                "Erahrung i",
+                "Gemiise j"
+              ],
+              "answer": 2,
+              "explain": "| like healthy food, for example fruit and vegetables."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “chips” mean?",
+              "choices": [
+                "a nicht einverstanden sein, ",
+                "Pommes frites",
+                "Gesundheit "
+              ],
+              "answer": 1,
+              "explain": "} In England, they eat a lot of fish and chips."
+            }
+          ]
+        },
+        {
+          "id": "vocy-21",
+          "title": "More vocabulary (LC_21)",
+          "theory": [
+            {
+              "h": "Quelle",
+              "p": "Siehe Screenshot LC_21_Vocy.jpeg."
+            }
+          ],
+          "vocab": [
+            {
+              "term": "index finger",
+              "definition": "Zeigefinger",
+              "example": "She pointed at the door with her index finger.",
+              "category": "General"
+            },
+            {
+              "term": "pool",
+              "definition": "Schwimmbad,",
+              "example": "In summer, they go to the pool every day.",
+              "category": "General"
+            },
+            {
+              "term": "rank",
+              "definition": "anordnen",
+              "example": "Now rank the countries from largest to smallest.",
+              "category": "General"
+            },
+            {
+              "term": "self-confidence",
+              "definition": "Selbstvertrauen",
+              "example": "__-My sister doesn’t have much self-confidence.",
+              "category": "General"
+            },
+            {
+              "term": "swim",
+              "definition": "schwimmen",
+              "example": "ike swimming in the lake.",
+              "category": "General"
+            },
+            {
+              "term": "twice",
+              "definition": "Ive been to London twice zweimal",
+              "example": "",
+              "category": "General"
+            },
+            {
+              "term": "wait for",
+              "definition": "warten auf",
+              "example": "I'm stil waiting for an answer.",
+              "category": "General"
+            },
+            {
+              "term": "advice",
+              "definition": "Rat",
+              "example": "Let me give you some advice.",
+              "category": "General"
+            },
+            {
+              "term": "i complicated",
+              "definition": "kompliziert",
+              "example": "These are very complicated instructions.",
+              "category": "General"
+            },
+            {
+              "term": "fresh",
+              "definition": "frisch",
+              "example": "I'm going out. | need some fresh air.",
+              "category": "General"
+            },
+            {
+              "term": "truth",
+              "definition": "Wahrheit ",
+              "example": "Are you really telling the truth?",
+              "category": "General"
+            },
+            {
+              "term": "extremely",
+              "definition": "dusserst",
+              "example": "It was extremely Kind of you to help me.",
+              "category": "General"
+            },
+            {
+              "term": "fat",
+              "definition": "fet",
+              "example": "These sausages contain a lot of fat.",
+              "category": "General"
+            },
+            {
+              "term": "hide",
+              "definition": "verstecken",
+              "example": "He always wants to hide his feelings.",
+              "category": "General"
+            },
+            {
+              "term": "unfortunately",
+              "definition": "unglicklicherweise",
+              "example": "Unfortunately the concert was sold out.",
+              "category": "General"
+            }
+          ],
+          "tasks": [
+            {
+              "type": "match",
+              "pairs": [
+                [
+                  "index finger",
+                  "Zeigefinger"
+                ],
+                [
+                  "pool",
+                  "Schwimmbad,"
+                ],
+                [
+                  "rank",
+                  "anordnen"
+                ],
+                [
+                  "self-confidence",
+                  "Selbstvertrauen"
+                ],
+                [
+                  "swim",
+                  "schwimmen"
+                ],
+                [
+                  "twice",
+                  "Ive been to London twice zweimal"
+                ]
+              ]
+            },
+            {
+              "type": "fill",
+              "q": "She pointed at the door with her ____ finger.",
+              "answer": "index",
+              "alt": [
+                "index finger"
+              ],
+              "hint": "LC_21"
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: frisch",
+              "answer": "fresh",
+              "alt": [
+                "fresh"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: schwimmen",
+              "answer": "swim",
+              "alt": [
+                "swim"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Ive been to London twice zweimal",
+              "answer": "twice",
+              "alt": [
+                "twice"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “rank” mean?",
+              "choices": [
+                "anordnen",
+                "Selbstvertrauen",
+                "kompliziert"
+              ],
+              "answer": 0,
+              "explain": "Now rank the countries from largest to smallest."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “truth” mean?",
+              "choices": [
+                "Wahrheit ",
+                "Ive been to London twice zweimal",
+                "Zeigefinger"
+              ],
+              "answer": 0,
+              "explain": "Are you really telling the truth?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “advice” mean?",
+              "choices": [
+                "Rat",
+                "Selbstvertrauen",
+                "fet"
+              ],
+              "answer": 0,
+              "explain": "Let me give you some advice."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “twice” mean?",
+              "choices": [
+                "schwimmen",
+                "Selbstvertrauen",
+                "Ive been to London twice zweimal"
+              ],
+              "answer": 2,
+              "explain": ""
+            },
+            {
+              "type": "mcq",
+              "q": "What does “swim” mean?",
+              "choices": [
+                "schwimmen",
+                "Schwimmbad,",
+                "kompliziert"
+              ],
+              "answer": 0,
+              "explain": "ike swimming in the lake."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “self-confidence” mean?",
+              "choices": [
+                "Selbstvertrauen",
+                "Zeigefinger",
+                "anordnen"
+              ],
+              "answer": 0,
+              "explain": "__-My sister doesn’t have much self-confidence."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “pool” mean?",
+              "choices": [
+                "frisch",
+                "Schwimmbad,",
+                "dusserst"
+              ],
+              "answer": 1,
+              "explain": "In summer, they go to the pool every day."
+            }
+          ]
+        },
+        {
+          "id": "vocy-22",
+          "title": "More vocabulary (LC_22)",
+          "theory": [
+            {
+              "h": "Quelle",
+              "p": "Siehe Screenshot LC_22_Vocy.jpeg."
+            }
+          ],
+          "vocab": [
+            {
+              "term": "concentrate",
+              "definition": "sich konzentrieren",
+              "example": "Please concentrate row. This is important.",
+              "category": "Study skills"
+            },
+            {
+              "term": "concentration",
+              "definition": "Konzentration",
+              "example": "With better concentration, you get better results.",
+              "category": "General"
+            },
+            {
+              "term": "menu",
+              "definition": "Speisekarte, Meni",
+              "example": "What's on the menu today?",
+              "category": "General"
+            },
+            {
+              "term": "potato",
+              "definition": "Kartoffel",
+              "example": "You need good potatoes to make good chips.",
+              "category": "General"
+            },
+            {
+              "term": "meanwhile",
+              "definition": "We have to wait; meanwhile, let's read a book, unterdessen",
+              "example": "",
+              "category": "General"
+            },
+            {
+              "term": "mix",
+              "definition": "mischen",
+              "example": "Then mix the pasta with the sauce.",
+              "category": "General"
+            },
+            {
+              "term": "lemon",
+              "definition": "Zitrone",
+              "example": "Add lemon juice to give it a sour taste.",
+              "category": "General"
+            },
+            {
+              "term": "Swiss German",
+              "definition": "Schweizerdeutsch",
+              "example": "} We don't speak Swiss German in class, only English.",
+              "category": "General"
+            },
+            {
+              "term": "vanilla",
+              "definition": "Vanille",
+              "example": "1 simply love vanilla ice-cream!",
+              "category": "General"
+            }
+          ],
+          "tasks": [
+            {
+              "type": "match",
+              "pairs": [
+                [
+                  "concentrate",
+                  "sich konzentrieren"
+                ],
+                [
+                  "concentration",
+                  "Konzentration"
+                ],
+                [
+                  "menu",
+                  "Speisekarte, Meni"
+                ],
+                [
+                  "potato",
+                  "Kartoffel"
+                ],
+                [
+                  "meanwhile",
+                  "We have to wait; meanwhile, let's read a book, unterdessen"
+                ],
+                [
+                  "mix",
+                  "mischen"
+                ]
+              ]
+            },
+            {
+              "type": "fill",
+              "q": "Please ____ now. This is important.",
+              "answer": "concentrate",
+              "hint": "LC_22"
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: mischen",
+              "answer": "mix",
+              "alt": [
+                "mix"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Vanille",
+              "answer": "vanilla",
+              "alt": [
+                "vanilla"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Zitrone",
+              "answer": "lemon",
+              "alt": [
+                "lemon"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “concentration” mean?",
+              "choices": [
+                "Zitrone",
+                "Kartoffel",
+                "Konzentration"
+              ],
+              "answer": 2,
+              "explain": "With better concentration, you get better results."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “potato” mean?",
+              "choices": [
+                "Schweizerdeutsch",
+                "Kartoffel",
+                "mischen"
+              ],
+              "answer": 1,
+              "explain": "You need good potatoes to make good chips."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “menu” mean?",
+              "choices": [
+                "Zitrone",
+                "Konzentration",
+                "Speisekarte, Meni"
+              ],
+              "answer": 2,
+              "explain": "What's on the menu today?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “meanwhile” mean?",
+              "choices": [
+                "Vanille",
+                "We have to wait; meanwhile, let's read a book, unterdessen",
+                "sich konzentrieren"
+              ],
+              "answer": 1,
+              "explain": ""
+            },
+            {
+              "type": "mcq",
+              "q": "What does “concentrate” mean?",
+              "choices": [
+                "Schweizerdeutsch",
+                "We have to wait; meanwhile, let's read a book, unterdessen",
+                "sich konzentrieren"
+              ],
+              "answer": 2,
+              "explain": "Please concentrate row. This is important."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “lemon” mean?",
+              "choices": [
+                "Zitrone",
+                "Kartoffel",
+                "mischen"
+              ],
+              "answer": 0,
+              "explain": "Add lemon juice to give it a sour taste."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “meanwhile” mean?",
+              "choices": [
+                "mischen",
+                "We have to wait; meanwhile, let's read a book, unterdessen",
+                "Kartoffel"
+              ],
+              "answer": 1,
+              "explain": ""
+            }
+          ]
+        },
+        {
+          "id": "vocy-23",
+          "title": "Only the best ingredients (LC_23)",
+          "theory": [
+            {
+              "h": "Quelle",
+              "p": "Siehe Screenshot LC_23_Vocy.jpeg."
+            }
+          ],
+          "vocab": [
+            {
+              "term": "litre",
+              "definition": "Liter",
+              "example": "Can you buy two litres of milk, too?",
+              "category": "Food & cooking"
+            },
+            {
+              "term": "pleased",
+              "definition": "froh, erfreut, zufrieden ",
+              "example": "Frank was very pleased to see me.",
+              "category": "Food & cooking"
+            },
+            {
+              "term": "shocking",
+              "definition": "schockierend",
+              "example": "This is shocking news!",
+              "category": "Food & cooking"
+            },
+            {
+              "term": "stretch",
+              "definition": "strecken",
+              "example": "Let’s go outside and stretch our legs.",
+              "category": "Food & cooking"
+            }
+          ],
+          "tasks": [
+            {
+              "type": "match",
+              "pairs": [
+                [
+                  "litre",
+                  "Liter"
+                ],
+                [
+                  "pleased",
+                  "froh, erfreut, zufrieden "
+                ],
+                [
+                  "shocking",
+                  "schockierend"
+                ],
+                [
+                  "stretch",
+                  "strecken"
+                ]
+              ]
+            },
+            {
+              "type": "fill",
+              "q": "Can you buy two ____ of milk?",
+              "answer": "litres",
+              "alt": [
+                "liters",
+                "litres"
+              ],
+              "hint": "LC_23"
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: froh, erfreut, zufrieden ",
+              "answer": "pleased",
+              "alt": [
+                "pleased"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: Liter",
+              "answer": "litre",
+              "alt": [
+                "litre"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "fill",
+              "q": "Write the word: strecken",
+              "answer": "stretch",
+              "alt": [
+                "stretch"
+              ],
+              "hint": "Use the vocabulary list."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “litre” mean?",
+              "choices": [
+                "Liter",
+                "strecken",
+                "froh, erfreut, zufrieden "
+              ],
+              "answer": 0,
+              "explain": "Can you buy two litres of milk, too?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “stretch” mean?",
+              "choices": [
+                "schockierend",
+                "froh, erfreut, zufrieden ",
+                "strecken"
+              ],
+              "answer": 2,
+              "explain": "Let’s go outside and stretch our legs."
+            },
+            {
+              "type": "mcq",
+              "q": "What does “litre” mean?",
+              "choices": [
+                "Liter",
+                "strecken",
+                "froh, erfreut, zufrieden "
+              ],
+              "answer": 0,
+              "explain": "Can you buy two litres of milk, too?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “litre” mean?",
+              "choices": [
+                "schockierend",
+                "strecken",
+                "Liter"
+              ],
+              "answer": 2,
+              "explain": "Can you buy two litres of milk, too?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “litre” mean?",
+              "choices": [
+                "Liter",
+                "schockierend",
+                "strecken"
+              ],
+              "answer": 0,
+              "explain": "Can you buy two litres of milk, too?"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “shocking” mean?",
+              "choices": [
+                "schockierend",
+                "Liter",
+                "strecken"
+              ],
+              "answer": 0,
+              "explain": "This is shocking news!"
+            },
+            {
+              "type": "mcq",
+              "q": "What does “shocking” mean?",
+              "choices": [
+                "schockierend",
+                "strecken",
+                "froh, erfreut, zufrieden "
+              ],
+              "answer": 0,
+              "explain": "This is shocking news!"
+            },
+            {
+              "type": "order",
+              "q": "Order the recipe words from start to finish (typical).",
+              "items": [
+                "ingredients",
+                "recipe",
+                "cook"
+              ],
+              "answer": [
+                "ingredients",
+                "recipe",
+                "cook"
+              ],
+              "explain": "You need ingredients for a recipe before you cook."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3-language-check",
+      "title": "Language Check – some/any & adverbs of sequence",
+      "tags": [
+        "grammar",
+        "language check"
+      ],
+      "intro": "Grammatikregeln aus LC_24.",
+      "image": "assets/LC_24_Language_check.jpeg",
+      "sections": [
+        {
+          "id": "lc24-some-any",
+          "title": "L3.1 Some & any + something/anything + no-",
+          "theory": [
+            {
+              "h": "Some vs any",
+              "p": "Use **some** in positive sentences. Use **any** in negative sentences and questions."
+            },
+            {
+              "h": "Something/anything",
+              "p": "Same rule as some/any: something/somebody/somewhere vs anything/anybody/anywhere."
+            },
+            {
+              "h": "Nothing/nobody/nowhere",
+              "p": "Forms with **no-** can be used (mostly in positive sentences)."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "mcq",
+              "q": "Choose the correct sentence:",
+              "choices": [
+                "We have got any apples.",
+                "We have got some apples.",
+                "Have you got some sweets at home?"
+              ],
+              "answer": 1,
+              "explain": "Use **some** in positive sentences; **any** in questions/negative sentences."
+            },
+            {
+              "type": "fill",
+              "q": "Have you got ____ sweets at home?",
+              "answer": "any",
+              "hint": "questions → any"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct sentence:",
+              "choices": [
+                "Nobody is perfect.",
+                "Anybody is perfect.",
+                "Noone is perfect."
+              ],
+              "answer": 0,
+              "explain": "Correct form: Nobody is perfect."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            }
+          ]
+        },
+        {
+          "id": "lc24-adverbs",
+          "title": "L3.2 Adverbs of sequence (first, then, finally …)",
+          "theory": [
+            {
+              "h": "Rule",
+              "p": "Adverbs of sequence show the order things happen: **first** (beginning), **next/then/after that** (following actions), **finally** (end)."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "match",
+              "pairs": [
+                [
+                  "first",
+                  "at the beginning"
+                ],
+                [
+                  "then / next / after that",
+                  "after another action"
+                ],
+                [
+                  "finally",
+                  "at the end"
+                ]
+              ]
+            },
+            {
+              "type": "fill",
+              "q": "____, go to the end of the street, then turn left.",
+              "answer": "First",
+              "alt": [
+                "first"
+              ],
+              "hint": "sequence adverb"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "order",
+              "q": "Put the adverbs of sequence in a logical order (beginning → end).",
+              "items": [
+                "first",
+                "then",
+                "finally"
+              ],
+              "answer": [
+                "first",
+                "then",
+                "finally"
+              ],
+              "explain": "First = beginning, then = middle, finally = end."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3-countable-imp",
+      "title": "Countable/Uncountable & How much/many & Imperatives",
+      "tags": [
+        "grammar",
+        "imperatives"
+      ],
+      "intro": "Regeln und Beispiele aus LC_25.",
+      "image": "assets/LC_25_Imperatives.jpeg",
+      "sections": [
+        {
+          "id": "countable",
+          "title": "L3.3 Countable vs uncountable + how much/how many",
+          "theory": [
+            {
+              "h": "Countable nouns",
+              "p": "Objects/people/things can be counted; use a/an and plural forms (e.g., a carrot, seven eggs)."
+            },
+            {
+              "h": "Uncountable nouns",
+              "p": "Materials/abstract things: no plural form (e.g., water, meat, salt)."
+            },
+            {
+              "h": "How much / how many",
+              "p": "Use **how many** with countable nouns; **how much** with uncountable nouns."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "mcq",
+              "q": "Choose the correct question:",
+              "choices": [
+                "How much apples do you need?",
+                "How many apples do you need?",
+                "How many butter do you need?"
+              ],
+              "answer": 1,
+              "explain": "how many + countable (apples); how much + uncountable (butter)."
+            },
+            {
+              "type": "fill",
+              "q": "How ____ butter do you need for the cake?",
+              "answer": "much",
+              "hint": "butter = uncountable"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "order",
+              "q": "Order the steps to ask correctly about amounts.",
+              "items": [
+                "Decide: countable or uncountable?",
+                "Use how many/how much.",
+                "Ask the question."
+              ],
+              "answer": [
+                "Decide: countable or uncountable?",
+                "Use how many/how much.",
+                "Ask the question."
+              ],
+              "explain": "Decide the noun type first, then choose the question word."
+            }
+          ]
+        },
+        {
+          "id": "imperatives",
+          "title": "L3.4 Imperatives",
+          "theory": [
+            {
+              "h": "Positive imperative",
+              "p": "Base form of verb + rest of sentence. Example: Cut the tomato into little cubes."
+            },
+            {
+              "h": "Negative imperative",
+              "p": "Do not + base form + rest. Example: Do not cut the small tomatoes."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "fill",
+              "q": "Do not ____ the small tomatoes.",
+              "answer": "cut",
+              "hint": "negative imperative: Do not + base form"
+            },
+            {
+              "type": "mcq",
+              "q": "Which sentence is a NEGATIVE imperative?",
+              "choices": [
+                "Look before crossing the road.",
+                "Do not cut the small tomatoes.",
+                "Cut the tomato into little cubes."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "order",
+              "q": "Put these cooking instructions in a sensible order.",
+              "items": [
+                "Wash the vegetables.",
+                "Cut the tomato into little cubes.",
+                "Mix the ingredients."
+              ],
+              "answer": [
+                "Wash the vegetables.",
+                "Cut the tomato into little cubes.",
+                "Mix the ingredients."
+              ],
+              "explain": "Typical recipe order: wash → cut → mix."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3-study-skills",
+      "title": "Study skills – preparing questions & statements",
+      "tags": [
+        "study skills",
+        "speaking"
+      ],
+      "intro": "Tipps aus LC_26 (Interviewfragen und kurze Statements).",
+      "image": "assets/LC_26_Study_skills.jpeg",
+      "sections": [
+        {
+          "id": "interview-questions",
+          "title": "Preparing questions for an interview",
+          "theory": [
+            {
+              "h": "Short & precise",
+              "p": "Make your questions short and precise."
+            },
+            {
+              "h": "Avoid closed questions",
+              "p": "Closed questions → yes/no (e.g., Do you like sport?)."
+            },
+            {
+              "h": "Use open questions",
+              "p": "Use question words: what, where, when, why, how (often/much/many…)."
+            },
+            {
+              "h": "Follow-up questions",
+              "p": "Could you tell me more? Can you explain in more detail? Is there anything else?"
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "mcq",
+              "q": "Which is an OPEN question?",
+              "choices": [
+                "Do you like sport?",
+                "What do you like about playing football?",
+                "Are you 14?"
+              ],
+              "answer": 1,
+              "explain": "Open questions use question words and invite longer answers."
+            },
+            {
+              "type": "fill",
+              "q": "Use question words like what, where, when, why, ____.",
+              "answer": "how",
+              "hint": "open questions"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            }
+          ]
+        },
+        {
+          "id": "short-statements",
+          "title": "Preparing short oral statements",
+          "theory": [
+            {
+              "h": "Keywords",
+              "p": "Make notes with keywords you want to use."
+            },
+            {
+              "h": "Dictionary",
+              "p": "Use a dictionary for needed words (e.g., Fussballtrainer → football coach)."
+            },
+            {
+              "h": "Short statements",
+              "p": "Prepare short statements you can say (e.g., I usually play football with my friend Diego)."
+            },
+            {
+              "h": "Add details",
+              "p": "Keep notes ready to add more details."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "fill",
+              "q": "Fussballtrainer in English is: football ____.",
+              "answer": "coach",
+              "hint": "LC_26"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3-portfolio",
+      "title": "Portfolio – Can-do checklist",
+      "tags": [
+        "portfolio",
+        "self-assessment"
+      ],
+      "intro": "Selbsteinschätzung (Can-do statements) aus LC_27.",
+      "image": "assets/LC_27_Portfolio.jpeg",
+      "sections": [
+        {
+          "id": "can-do",
+          "title": "I can … (Unit 3)",
+          "theory": [
+            {
+              "h": "Listening/Reading",
+              "p": "I can understand details in interviews about sport. I can understand main points in a text about food. I can follow instructions (e.g., recipes)."
+            },
+            {
+              "h": "Speaking/Writing",
+              "p": "I can discuss food topics (e.g., fast food). I can express likes/dislikes and agreement/disagreement. I can write short instructions (e.g., recipes)."
+            },
+            {
+              "h": "Grammar",
+              "p": "I can use some/any correctly. I can use how much/how many correctly."
+            },
+            {
+              "h": "Cultural awareness",
+              "p": "I can think about meanings/translations of food words and know the food words important for me."
+            },
+            {
+              "h": "Study skill",
+              "p": "I can use strategies for preparing short questions and statements."
+            }
+          ],
+          "vocab": [],
+          "tasks": [
+            {
+              "type": "mcq",
+              "q": "Which grammar point is part of the Unit 3 portfolio?",
+              "choices": [
+                "Past perfect",
+                "some/any",
+                "relative clauses"
+              ],
+              "answer": 1,
+              "explain": "Portfolio mentions some/any and how much/how many."
+            },
+            {
+              "type": "fill",
+              "q": "I can use how ____ / how many correctly.",
+              "answer": "much",
+              "hint": "portfolio statement"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "mcq",
+              "q": "Choose the correct: ____ oranges do you need?",
+              "choices": [
+                "How much",
+                "How many",
+                "How often"
+              ],
+              "answer": 1,
+              "explain": "Oranges are countable → how many."
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Rewrite this as a correct sentence (use your rules): We haven't got some milk.",
+              "answer": "We haven't got any milk.",
+              "alt": [
+                "We have not got any milk."
+              ],
+              "hint": "negative → any"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in questions/negative sentences (some/any).",
+              "answer": "any",
+              "hint": "questions/negative"
+            },
+            {
+              "type": "fill",
+              "q": "Complete: Use ____ in positive sentences (some/any).",
+              "answer": "some",
+              "hint": "positive sentences"
+            },
+            {
+              "type": "mcq",
+              "q": "Which is a negative imperative?",
+              "choices": [
+                "Mix the ingredients.",
+                "Do not add salt.",
+                "Add some sugar."
+              ],
+              "answer": 1,
+              "explain": "Negative imperative: Do not + base form."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
